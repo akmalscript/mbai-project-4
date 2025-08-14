@@ -1,6 +1,6 @@
 // npm init -y
 // npm install express dotenv multer @google/genai
-// fill .env with GEMINI_API_KEY={your-gemini-api-key}
+// create a .env file and fill it with GEMINI_API_KEY={your-gemini-api-key}
 
 const express = require('express');
 const dotenv = require('dotenv');
